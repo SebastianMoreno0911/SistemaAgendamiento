@@ -33,14 +33,11 @@
                 </a>
 
                 <a href="pages/login.php?redirect=cancelar_cita"
-                    class="inline-flex w-full items-center justify-center rounded-xl border border-primary-red bg-white px-6 py-4 text-base font-bold text-primary-red shadow-sm transition hover:-translate-y-0.5 hover:bg-primary-soft focus:outline-none focus:ring-4 focus:ring-red-100 sm:w-auto">
+                    class="inline-flex w-full items-center justify-center rounded-xl border border-primary-red bg-white px-6 py-4 text-base font-bold text-primary-red shadow-sm transition hover:-translate-y-0.5 hover:bg-primary-soft focus:outline-none focus:ring-4 focus:ring-red-100 ">
                     Cancelar Cita
                 </a>
 
-                <!-- <a href="pages/servicio.php"
-                    class="inline-flex w-full items-center justify-center rounded-xl bg-primary-red px-6 py-4 text-base font-bold text-white shadow-lg shadow-red-200 transition hover:-translate-y-0.5 hover:bg-primary-dark focus:outline-none focus:ring-4 focus:ring-red-200 sm:w-auto">
-                    servicio
-                </a> -->
+
 
 
             </div>
