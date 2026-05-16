@@ -33,7 +33,7 @@
                 </a>
 
                 <a href="pages/login.php?redirect=cancelar_cita"
-                    class="inline-flex w-full items-center justify-center rounded-xl border border-primary-red bg-white px-6 py-4 text-base font-bold text-primary-red shadow-sm transition hover:-translate-y-0.5 hover:bg-primary-soft focus:outline-none focus:ring-4 focus:ring-red-100 ">
+                    class="inline-flex w-full items-center justify-center rounded-xl border border-primary-red bg-white px-6 py-4 text-base font-bold text-primary-red shadow-sm transition hover:-translate-y-0.5 hover:bg-primary-soft focus:outline-none focus:ring-4 focus:ring-red-100 sm:w-auto">
                     Cancelar Cita
                 </a>
 
